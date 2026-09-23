@@ -3,11 +3,12 @@ const person = {
   nameRu: 'Лю Мэнцзе',
   nameZh: '刘梦洁',
   birth: { year: 2007, month: 9, day: 23 },
-  currentAge: 19,
-  turningAge: 20,
-  cakeMsgRu: 'С двадцатилетием!',
-  cakeMsgZh: '二十岁快乐！'
+  currentAge: 20,            
+  turningAge: 21,            
+  cakeMsgRu: 'С двадцать первым днём рождения!',
+  cakeMsgZh: '二十一岁快乐！'
 };
+
 
 /* Изображения (присланные пользователем) */
 const BEAR_IMG = 'bear.png';
