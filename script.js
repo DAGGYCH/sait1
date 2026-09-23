@@ -3,10 +3,10 @@ const person = {
   nameRu: 'Лю Мэнцзе',
   nameZh: '刘梦洁',
   birth: { year: 2007, month: 9, day: 23 },
-  currentAge: 20,            
-  turningAge: 21,            
-  cakeMsgRu: 'С двадцать первым днём рождения!',
-  cakeMsgZh: '二十一岁快乐！'
+  currentAge: 20,            // на главном экране
+  turningAge: 21,            // скоро будет 21
+  cakeMsgRu: 'С двадцатилетием!',   // ← исправлено
+  cakeMsgZh: '二十岁快乐！'           // ← исправлено
 };
 
 
